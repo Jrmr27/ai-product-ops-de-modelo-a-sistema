@@ -1,1 +1,1 @@
-# ai-product-ops-de-modelo-a-sistema
+# dsi-process-redesign-studio

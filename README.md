@@ -1,12 +1,12 @@
-# DSI Process Redesign Studio (Streamlit)
+# AI Product Ops: De Modelo a Sistema (Streamlit)
 
-App didáctica para construir:
-- SIPOC
-- AS-IS / TO-BE (con palancas SI/IA)
-- RACI / RAID
-- Exportable (MD/PDF)
+App didáctica para obligar decisiones de diseño (trade-offs) en sistemas IA:
+- Framework (People/Process/Data/Tech/Policy)
+- Simulador TI vs SI (coste API vs retrabajo humano)
+- Wizard de diseño (pipeline, roles, métricas, guardrails)
+- Auditoría y reporte (SDD en Markdown/PDF)
 
-## Local
+## Ejecutar (local)
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-

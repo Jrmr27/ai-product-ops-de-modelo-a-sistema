@@ -36,7 +36,7 @@ pages = {
     "Producto": [
         st.Page("pages/1_home_framework.py", title="Home · Framework", icon="🏠"),
         st.Page("pages/2_simulador_ti_vs_si.py", title="Simulador · TI vs SI", icon="🧮"),
-        st.Page("pages/3_disenador_producto.py", title="Diseñador · Wizard", icon="🧭"),
+        st.Page("pages/3_dimensionador_producto.py", title="Diseñador · Wizard", icon="🧭"),
         st.Page("pages/4_auditoria_reporte.py", title="Auditoría · Reporte", icon="🧾"),
     ]
 }
